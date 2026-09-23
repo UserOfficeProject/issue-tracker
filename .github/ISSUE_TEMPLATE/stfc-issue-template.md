@@ -1,8 +1,8 @@
 ---
-name: Issue template
-about: Default issue template
+name: STFC Issue template
+about: Default STFC issue template
 title: ''
-labels: ''
+labels: 'area: uop/stfc'
 assignees: ''
 
 ---
